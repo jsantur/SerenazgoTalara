@@ -44,18 +44,6 @@ Está diseñado para entidades municipales y organizaciones de seguridad que req
 
 ---
 
-## 🖥️ Vista del Sistema
-
-![Screenshot](./assets/screenshot.png)
-
----
-
-## 🎥 Demo
-
-👉 [https://tu-demo-aqui.com](https://tu-demo-aqui.com)
-
----
-
 ## 🧩 Funcionalidades Clave
 
 ### 🚙 Gestión de Unidades
