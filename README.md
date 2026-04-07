@@ -163,12 +163,6 @@ Es una **herramienta lista para implementación real**, pensada para:
 
 ---
 
-## 📲 Contacto
-
-👉 [https://wa.me/51977201449](https://wa.me/51977201449)
-
----
-
 ## 🔥 Próximas Evoluciones
 
 * 🌐 Versión web (SaaS)
@@ -187,6 +181,16 @@ Es una **herramienta lista para implementación real**, pensada para:
 
 ---
 
-<p align="center">
-  <b>Desarrollado por JSANTUR 🚀</b>
-</p>
+## 📫 Contacto y apoyo:
+
+¿Proyecto en mente o ganas de colaborar? Contáctame por redes o correo y lo desarrollamos juntos.
+ 
+[![Email Personal](https://img.shields.io/badge/josephsantur@jsantur.com-EMAIL%20PERSONAL%20(RESPUESTA%20LENTA)-d34a35?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josephsanturm@gmail.com)
+</br>
+[![WhatsApp](https://img.shields.io/badge/WHATSAPP-JSANTUR%20(RESPUESTA%20R%C3%81PIDA)%20GRACIAS!-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/51977201449?text=Hola%20JSANTUR%20vengo%20de%20GITHUB)
+</br>
+
+<div align="center">
+	<i>“Cuanto más grande es la prueba, más glorioso es el triunfo.” - Thomas Paine</i>
+</div>
+ 
