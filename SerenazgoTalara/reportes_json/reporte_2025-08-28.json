@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2025-08-28",
+    "hora": "02-00",
+    "turno": "NOCHE",
+    "reporte": "📋 REPORTE DE UNIDADES\n==============================\n🕰️ Hora: 02:00\n📅 Fecha: 2025-08-28\n🕵️‍♂️ Turno: NOCHE\n\n🚓 UNIDADES SELECCIONADAS\n------------------------------\n🚓 H2 / EUI-682\n   📝 T. CASA DEL PAN\n\n🚓 H5 / EUI-685\n   📝 T. PQ .56\n\n🚓 H7 / EUI-679\n   📝 T. MARIO AGUIRRE\n\n🚓 H8 / EUI-680\n   📝 T. SAN PEDRO\n\n==============================\n👤 Usuario: OPERADOR02"
+  },
+  {
+    "fecha": "2025-08-28",
+    "hora": "02-30",
+    "turno": "NOCHE",
+    "reporte": "📋 REPORTE DE UNIDADES\n==============================\n🕰️ Hora: 02:30\n📅 Fecha: 2025-08-28\n🕵️‍♂️ Turno: NOCHE\n\n🚓 UNIDADES SELECCIONADAS\n------------------------------\n🚓 H2 / EUI-682\n   📝 T. SACOBSA\n\n🚓 H5 / EUI-685\n   📝 T. URB. ALEJANDRO TABOADA\n\n🚓 H7 / EUI-679\n   📝 T. PINOS\n\n🚓 H8 / EUI-680\n   📝 T. BASE NORTE\n\n==============================\n👤 Usuario: OPERADOR02"
+  },
+  {
+    "fecha": "2025-08-28",
+    "hora": "17-07",
+    "turno": "TARDE",
+    "reporte": "📋 REPORTE DE UNIDADES\n==============================\n🕰️ Hora: 17:07\n📅 Fecha: 2025-08-28\n🕵️‍♂️ Turno: TARDE\n\n🚓 UNIDADES SELECCIONADAS\n------------------------------\n🚓 H2 / EUI-682\n   📝 T. PEÑITAS\n\n🚓 H5 / EUI-685\n   📝 P. ALT. DE MUCHACHITO GUERRERO\n\n🚓 H7 / EUI-679\n   📝 P. CALLE 06 TALARA ALTA\n\n🚓 H8 / EUI-680\n   📝 T. COLISEO SWACOBSA\n\n==============================\n👤 Usuario: OPERADOR02"
+  },
+  {
+    "fecha": "2025-08-28",
+    "hora": "17-10",
+    "turno": "TARDE",
+    "reporte": "📋 REPORTE DE UNIDADES\n==============================\n🕰️ Hora: 17:10\n📅 Fecha: 2025-08-28\n🕵️‍♂️ Turno: TARDE\n\n🚓 UNIDADES SELECCIONADAS\n------------------------------\n🚓 H2 / EUI-682\n   📝 T. PEÑITAS\n\n🚓 H5 / EUI-685\n   📝 P. ALT. MUCHACHITO GUERRERO\n\n🚓 H7 / EUI-679\n   📝 P. CALLE6 TALARA ALTA\n\n🚓 H8 / EUI-680\n   📝 T. COLISEO SACOBSA\n\n==============================\n👤 Usuario: OPERADOR02"
+  }
+]

@@ -1,0 +1,11 @@
+[
+  {
+    "fecha": "2025-08-24",
+    "hora": "18:01",
+    "turno": "TARDE",
+    "camara": "SENATI",
+    "ocurrencia": "INCENDIO menor detectado en la parte superior de una TOYOTA.  Un BOMBERO intervino extinguiendo el humo.",
+    "usuario": "OPERADOR02",
+    "reporte": "CÁMARA: SENATI\nFECHA  : 2025-08-24\nHORA   : 18:01\n\nOCURRENCIA:\nINCENDIO menor detectado en la parte superior de una TOYOTA.  Un BOMBERO intervino extinguiendo el humo.\n"
+  }
+]

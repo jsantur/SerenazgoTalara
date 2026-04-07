@@ -1,0 +1,14 @@
+[
+  {
+    "fecha": "2025-08-24",
+    "hora": "17-00",
+    "turno": "TARDE",
+    "reporte": "📋 REPORTE DE UNIDADES\n==============================\n🕰️ Hora: 17:00\n📅 Fecha: 2025-08-24\n🕵️‍♂️ Turno: TARDE\n\n🚓 UNIDADES SELECCIONADAS\n------------------------------\n🚓 H2 / EUI-682\n   📝 T. SAN PEDRO\n\n🚓 H5 / EUI-685\n   📝 T. CHARLY CHARLY\n\n🚓 H7 / EUI-679\n   📝 T. ENACE II\n\n🚓 H8 / EUI-680\n   📝 P. AV. B - PECATTA\n\n==============================\n👤 Usuario: OPERADOR02"
+  },
+  {
+    "fecha": "2025-08-24",
+    "hora": "19-00",
+    "turno": "TARDE",
+    "reporte": "📋 REPORTE DE UNIDADES\n==============================\n🕰️ Hora: 19:00\n📅 Fecha: 2025-08-24\n🕵️‍♂️ Turno: TARDE\n\n🚓 UNIDADES SELECCIONADAS\n------------------------------\n🚓 H2 / EUI-682\n   📝 AP. TRESA\n\n🚓 H5 / EUI-685\n   📝 AP. TRESA\n\n🚓 H7 / EUI-679\n   📝 P. AV.F\n\n🚓 H8 / EUI-680\n   📝 P. AV. F\n\n==============================\n👤 Usuario: OPERADOR02"
+  }
+]

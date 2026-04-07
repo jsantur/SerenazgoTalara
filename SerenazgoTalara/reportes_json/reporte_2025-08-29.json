@@ -1,0 +1,14 @@
+[
+  {
+    "fecha": "2025-08-29",
+    "hora": "01-00",
+    "turno": "NOCHE",
+    "reporte": "📋 REPORTE DE UNIDADES\n==============================\n🕰️ Hora: 01:00\n📅 Fecha: 2025-08-29\n🕵️‍♂️ Turno: NOCHE\n\n🚓 UNIDADES SELECCIONADAS\n------------------------------\n🚓 H2 / EUI-682\n   📝 NO RESPONDE\n\n🚓 H5 / EUI-685\n   📝 T.JAZMINES\n\n🚓 H7 / EUI-679\n   📝 T. MIRADOR\n\n🚓 H8 / EUI-680\n   📝 P. ESSALUD\n\n==============================\n👤 Usuario: OPERADOR02"
+  },
+  {
+    "fecha": "2025-08-29",
+    "hora": "04-31",
+    "turno": "NOCHE",
+    "reporte": "📋 REPORTE DE UNIDADES\n==============================\n🕰️ Hora: 04:31\n📅 Fecha: 2025-08-29\n🕵️‍♂️ Turno: NOCHE\n\n🚓 UNIDADES SELECCIONADAS\n------------------------------\n🚓 H2 / EUI-682\n   📝 S. T. SACOBSA\n\n🚓 H5 / EUI-685\n   📝 SALIENDO T. BAPE\n\n🚓 H7 / EUI-679\n   📝 T. CRISTO MIRADOR\n\n🚓 H8 / EUI-680\n   📝 T. PLAZ SAN PEDRO\n\n==============================\n👤 Usuario: OPERADOR02"
+  }
+]

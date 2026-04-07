@@ -1,0 +1,20 @@
+[
+  {
+    "fecha": "2026-04-05",
+    "hora": "09:01",
+    "turno": "DÍA",
+    "camara": "SENATI",
+    "ocurrencia": "Se disuadió al SUJETO de cometer actos indecorosos con su pareja en la VÍA PÚBLICA.",
+    "usuario": "OPERADOR02",
+    "reporte": "CÁMARA: SENATI\nFECHA  : 2026-04-05\nHORA   : 09:01\n\nOCURRENCIA:\nSe disuadió al SUJETO de cometer actos indecorosos con su pareja en la VÍA PÚBLICA.\n"
+  },
+  {
+    "fecha": "2026-04-05",
+    "hora": "09:10",
+    "turno": "DÍA",
+    "camara": "La Parada",
+    "ocurrencia": "DISUASIÓN lograda.",
+    "usuario": "OPERADOR02",
+    "reporte": "CÁMARA: La Parada\nFECHA  : 2026-04-05\nHORA   : 09:10\n\nOCURRENCIA:\nDISUASIÓN lograda.\n"
+  }
+]

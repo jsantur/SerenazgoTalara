@@ -1,0 +1,20 @@
+[
+  {
+    "fecha": "2025-08-30",
+    "hora": "01-00",
+    "turno": "TARDE",
+    "reporte": "📋 REPORTE DE UNIDADES\n==============================\n🕰️ Hora: 01:00\n📅 Fecha: 2025-08-30\n🕵️‍♂️ Turno: TARDE\n\n🚓 UNIDADES SELECCIONADAS\n------------------------------\n🚓 H2 / EUI-682\n   📝 T. CRISTO MIRADOR\n\n🚓 H5 / EUI-685\n   📝 T. AV.H\n\n🚓 H7 / EUI-679\n   📝 P. JESUS MARIA\n\n🚓 H8 / EUI-680\n   📝 T. EDIFICIOS\n\n==============================\n👤 Usuario: OPERADOR02"
+  },
+  {
+    "fecha": "2025-08-30",
+    "hora": "01-30",
+    "turno": "TARDE",
+    "reporte": "📋 REPORTE DE UNIDADES\n==============================\n🕰️ Hora: 01:30\n📅 Fecha: 2025-08-30\n🕵️‍♂️ Turno: TARDE\n\n🚓 UNIDADES SELECCIONADAS\n------------------------------\n🚓 H2 / EUI-682\n   📝 T. JORGE CHAVEZ\n\n🚓 H5 / EUI-685\n   📝 T. AV.F\n\n🚓 H7 / EUI-679\n   📝 T. BASE SERENAZGO\n\n🚓 H8 / EUI-680\n   📝 T. TECNOLOGICO\n\n==============================\n👤 Usuario: OPERADOR02"
+  },
+  {
+    "fecha": "2025-08-30",
+    "hora": "02-30",
+    "turno": "TARDE",
+    "reporte": "📋 REPORTE DE UNIDADES\n==============================\n🕰️ Hora: 02:30\n📅 Fecha: 2025-08-30\n🕵️‍♂️ Turno: TARDE\n\n🚓 UNIDADES SELECCIONADAS\n------------------------------\n🚓 H2 / EUI-682\n   📝 P. AV. A\n\n🚓 H5 / EUI-685\n   📝 T. URB . JAZMINES\n\n🚓 H7 / EUI-679\n   📝 T. AA.HH MALECON TURISTICO SAN PEDRO\n\n🚓 H8 / EUI-680\n   📝 T. SACOBSA\n\n==============================\n👤 Usuario: OPERADOR02"
+  }
+]

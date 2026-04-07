@@ -1,0 +1,38 @@
+[
+  {
+    "fecha": "2025-08-23",
+    "hora": "14:25",
+    "turno": "TARDE",
+    "camara": "Poste 06 Gruta Jorge Chávez",
+    "ocurrencia": "Se activó el BOTÓN DE PÁNICO del poste Jorge Chávez.  La revisión de la cámara mostró a un sujeto de contextura gruesa, con la cabeza ensangrentada, vistiendo un polo blanco.  Aparentemente, era el propietario de una motokar azul. Se notificó al supervisor de turno.",
+    "usuario": "OPERADOR02",
+    "reporte": "CÁMARA: Poste 06 Gruta Jorge Chávez\nFECHA  : 2025-08-23\nHORA   : 14:25\n\nOCURRENCIA:\nSe activó el BOTÓN DE PÁNICO del poste Jorge Chávez.  La revisión de la cámara mostró a un sujeto de contextura gruesa, con la cabeza ensangrentada, vistiendo un polo blanco.  Aparentemente, era el propietario de una motokar azul. Se notificó al supervisor de turno.\n"
+  },
+  {
+    "fecha": "2025-08-23",
+    "hora": "14:30",
+    "turno": "TARDE",
+    "camara": "Zona de Bancos",
+    "ocurrencia": "OBSERVADO:  Concentración de numerosos alumnos de diversas instituciones en la zona de BPAMCPS.  Se presume la formación de un PASACALLES.  Aproximadamente ocho vehículos con modificaciones se encuentran en el área.",
+    "usuario": "OPERADOR02",
+    "reporte": "CÁMARA: Zona de Bancos\nFECHA  : 2025-08-23\nHORA   : 14:30\n\nOCURRENCIA:\nOBSERVADO:  Concentración de numerosos alumnos de diversas instituciones en la zona de BPAMCPS.  Se presume la formación de un PASACALLES.  Aproximadamente ocho vehículos con modificaciones se encuentran en el área.\n"
+  },
+  {
+    "fecha": "2025-08-23",
+    "hora": "14:30",
+    "turno": "TARDE",
+    "camara": "Zona de Bancos",
+    "ocurrencia": "OBSERVADO:  Numerosa concentración de personas, aparentemente alumnos de diversas instituciones educativas, en la zona de BPAMCPS.  Se presume la formación de un pasacalles.  Se detectaron aproximadamente ocho vehículos con arreglos especiales.",
+    "usuario": "OPERADOR02",
+    "reporte": "CÁMARA: Zona de Bancos\nFECHA  : 2025-08-23\nHORA   : 14:30\n\nOCURRENCIA:\nOBSERVADO:  Numerosa concentración de personas, aparentemente alumnos de diversas instituciones educativas, en la zona de BPAMCPS.  Se presume la formación de un pasacalles.  Se detectaron aproximadamente ocho vehículos con arreglos especiales.\n"
+  },
+  {
+    "fecha": "2025-08-23",
+    "hora": "15:23",
+    "turno": "TARDE",
+    "camara": "Politécnico",
+    "ocurrencia": "OBSERVADO grupo de individuos, presuntamente pertenecientes a un culto religioso evangélico, realizando proselitismo en las inmediaciones de la calle Mercedes, cerca del Colegio Politécnico.",
+    "usuario": "OPERADOR02",
+    "reporte": "CÁMARA: Politécnico\nFECHA  : 2025-08-23\nHORA   : 15:23\n\nOCURRENCIA:\nOBSERVADO grupo de individuos, presuntamente pertenecientes a un culto religioso evangélico, realizando proselitismo en las inmediaciones de la calle Mercedes, cerca del Colegio Politécnico.\n"
+  }
+]

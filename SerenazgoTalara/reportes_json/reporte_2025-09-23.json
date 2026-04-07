@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2025-09-23",
+    "hora": "01-30",
+    "turno": "NOCHE",
+    "reporte": "📋 REPORTE DE UNIDADES\n==============================\n🕰️ Hora: 01:30\n📅 Fecha: 2025-09-23\n🕵️‍♂️ Turno: NOCHE\n\n🚓 UNIDADES SELECCIONADAS\n------------------------------\n🚓 H2 / EUI-682\n   📝 T.  \"NUEVA TALARA\".\n\n🚓 H5 / EUI-685\n   📝 SAL. TAC.PARQUE 62.\n\n🚓 H7 / EUI-679\n   📝 T.  CALLE-1\n\n🚓 H8 / EUI-680\n   📝 T.  \"MALECON TURISTICO\".\n\n==============================\n👤 Usuario: OPERADOR02"
+  },
+  {
+    "fecha": "2025-09-23",
+    "hora": "02-00",
+    "turno": "NOCHE",
+    "reporte": "📋 REPORTE DE UNIDADES\n==============================\n🕰️ Hora: 02:00\n📅 Fecha: 2025-09-23\n🕵️‍♂️ Turno: NOCHE\n\n🚓 UNIDADES SELECCIONADAS\n------------------------------\n🚓 H2 / EUI-682\n   📝 T.  \"FELIPE SANTIAGO SALAVERRY\"\n\n🚓 H5 / EUI-685\n   📝 P.  AV \"B\".\n\n🚓 H7 / EUI-679\n   📝 SAL. TAC. CALLE-1.\n\n🚓 H8 / EUI-680\n   📝 T.  \"MERCADO ACAPULCO\"\n\n==============================\n👤 Usuario: OPERADOR02"
+  },
+  {
+    "fecha": "2025-09-23",
+    "hora": "02-30",
+    "turno": "NOCHE",
+    "reporte": "📋 REPORTE DE UNIDADES\n==============================\n🕰️ Hora: 02:30\n📅 Fecha: 2025-09-23\n🕵️‍♂️ Turno: NOCHE\n\n🚓 UNIDADES SELECCIONADAS\n------------------------------\n🚓 H2 / EUI-682\n   📝 T. \"LUIS NEGREIROS VEGA\"\n\n🚓 H5 / EUI-685\n   📝 T.  \"LOS VENCEDORES\"\n\n🚓 H7 / EUI-679\n   📝 T.  \"LOS PINOS\"\n\n🚓 H8 / EUI-680\n   📝 NO RESPONDIO.\n\n==============================\n👤 Usuario: OPERADOR02"
+  },
+  {
+    "fecha": "2025-09-23",
+    "hora": "03-00",
+    "turno": "NOCHE",
+    "reporte": "📋 REPORTE DE UNIDADES\n==============================\n🕰️ Hora: 03:00\n📅 Fecha: 2025-09-23\n🕵️‍♂️ Turno: NOCHE\n\n🚓 UNIDADES SELECCIONADAS\n------------------------------\n🚓 H2 / EUI-682\n   📝 SAL. TAC. \"LUIS NEGREIROS VEGA\"\n\n🚓 H5 / EUI-685\n   📝 T. \"LOS VENCEDORES\"\n\n🚓 H7 / EUI-679\n   📝 T.  CALLE-1\n\n🚓 H8 / EUI-680\n   📝 P. AV. \"D\"\n\n==============================\n👤 Usuario: OPERADOR02"
+  }
+]

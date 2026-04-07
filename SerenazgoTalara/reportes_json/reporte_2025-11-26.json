@@ -1,0 +1,14 @@
+[
+  {
+    "fecha": "2025-11-26",
+    "hora": "16-16",
+    "turno": "TARDE",
+    "reporte": "📋 REPORTE DE UNIDADES\n==============================\n🕰️ Hora: 16:16\n📅 Fecha: 2025-11-26\n🕵️‍♂️ Turno: TARDE\n\n🚓 UNIDADES SELECCIONADAS\n------------------------------\n🚓 H2 / EUI-682\n   📝 T NEGREIROS\n\n🚓 H4 / EUI-646\n   📝 T 7 DE JUNIO\n\n🚓 H5 / EUI-685\n   📝 P PARADA\n\n🚓 H7 / EUI-679\n   📝 NO REPORTO\n\n🚓 H8 / EUI-680\n   📝 PMERCADO CENTRAL\n\n==============================\n👤 Usuario: OPERADOR02"
+  },
+  {
+    "fecha": "2025-11-26",
+    "hora": "20-15",
+    "turno": "TARDE",
+    "reporte": "📋 REPORTE DE UNIDADES\n==============================\n🕰️ Hora: 20:15\n📅 Fecha: 2025-11-26\n🕵️‍♂️ Turno: TARDE\n\n🚓 UNIDADES SELECCIONADAS\n------------------------------\n🚓 H2 / EUI-682\n   📝 T NVA TALARA\n\n🚓 H4 / EUI-646\n   📝 P LA URBANIZACION POPULAR\n\n🚓 H5 / EUI-685\n   📝 PANADERIAS\n\n🚓 H7 / EUI-679\n   📝 CONSIGNA\n\n🚓 H8 / EUI-680\n   📝 T YALE\n\n==============================\n👤 Usuario: OPERADOR02"
+  }
+]

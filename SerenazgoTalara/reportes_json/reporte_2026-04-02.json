@@ -1,0 +1,14 @@
+[
+  {
+    "fecha": "2026-04-02",
+    "hora": "08-30",
+    "turno": "DÍA",
+    "reporte": "📋 REPORTE DE UNIDADES\n==============================\n🕰️ Hora: 08:30\n📅 Fecha: 2026-04-02\n🕵️‍♂️ Turno: DÍA\n\n🚓 UNIDADES SELECCIONADAS\n------------------------------\n🚓 H2 / EUI-682\n   📝 T.PLAZ. PESCADOR\n\n🚓 H5 / EUI-685\n   📝 T. PQ 62\n\n🚓 H8 / EUI-680\n   📝 P. EDIFICIOS ENACE II\n\n🚓 H9 / EUI-645\n   📝 T. PQ. JORGE CHAVEZ\n\n🚓 H12 / EUI-670\n   📝 T.PARADA\n\n🚓 H13 / EUI-671\n   📝 P.PQ 65\n\n==============================\n👤 Usuario: OPERADOR02"
+  },
+  {
+    "fecha": "2026-04-02",
+    "hora": "11-02",
+    "turno": "DÍA",
+    "reporte": "📋 REPORTE DE UNIDADES\n==============================\n🕰️ Hora: 11:02\n📅 Fecha: 2026-04-02\n🕵️‍♂️ Turno: DÍA\n\n🚓 UNIDADES SELECCIONADAS\n------------------------------\n🚓 H2 / EUI-682\n   📝 P. AV. ALEJANDRO TABOADA\n\n🚓 H5 / EUI-685\n   📝 P. 72\n\n🚓 H8 / EUI-680\n   📝 T. CENTRO CIVICO\n\n🚓 H9 / EUI-645\n   📝 AP. 28 DE JULIO\n\n🚓 H12 / EUI-670\n   📝 T. ENACE\n\n🚓 H13 / EUI-671\n   📝 T. YALE\n\n==============================\n👤 Usuario: OPERADOR02"
+  }
+]

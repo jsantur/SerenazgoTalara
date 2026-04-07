@@ -1,0 +1,38 @@
+[
+  {
+    "fecha": "2025-08-22",
+    "hora": "14:33",
+    "turno": "TARDE",
+    "camara": "Pecata",
+    "ocurrencia": "OBSERVACIÓN EN MR. JUGO: Calle clausurada por trabajos de instalación de GAS NATURAL. Se observan trabajos de excavación en la vía cerrada.",
+    "usuario": "OPERADOR02",
+    "reporte": "CÁMARA: Pecata\nFECHA  : 2025-08-22\nHORA   : 14:33\n\nOCURRENCIA:\nOBSERVACIÓN EN MR. JUGO: Calle clausurada por trabajos de instalación de GAS NATURAL. Se observan trabajos de excavación en la vía cerrada.\n"
+  },
+  {
+    "fecha": "2025-08-22",
+    "hora": "16:25",
+    "turno": "TARDE",
+    "camara": "Pollería Maruja",
+    "ocurrencia": "OBSERVADA actividad sospechosa: persona caminando cerca de la POLLERÍA COLEGIO.",
+    "usuario": "OPERADOR02",
+    "reporte": "CÁMARA: Pollería Maruja\nFECHA  : 2025-08-22\nHORA   : 16:25\n\nOCURRENCIA:\nOBSERVADA actividad sospechosa: persona caminando cerca de la POLLERÍA COLEGIO.\n"
+  },
+  {
+    "fecha": "2025-08-22",
+    "hora": "17:56",
+    "turno": "TARDE",
+    "camara": "Pipos",
+    "ocurrencia": "UNIDAD 05 respondió a un llamado por radio de Tránsito reportando una mordedura canina.  Se solicitó apoyo para el traslado del afectado a una clínica. Se confirmó la llegada de la unidad y la asistencia prestada al paciente para su traslado.",
+    "usuario": "OPERADOR02",
+    "reporte": "CÁMARA: Pipos\nFECHA  : 2025-08-22\nHORA   : 17:56\n\nOCURRENCIA:\nUNIDAD 05 respondió a un llamado por radio de Tránsito reportando una mordedura canina.  Se solicitó apoyo para el traslado del afectado a una clínica. Se confirmó la llegada de la unidad y la asistencia prestada al paciente para su traslado.\n"
+  },
+  {
+    "fecha": "2025-08-22",
+    "hora": "19:44",
+    "turno": "TARDE",
+    "camara": "",
+    "ocurrencia": "OBSERVADA MOTOCICLETA BAJAJ, ROJA CON BLANCO, PATENTE A4-6423.  SE REGISTRA INTERVENCIÓN VEHICULAR.  PRESENCIA DE UNIDAD OPERATIVA Y GRÚA.",
+    "usuario": "OPERADOR02",
+    "reporte": "CÁMARA: \nFECHA  : 2025-08-22\nHORA   : 19:44\n\nOCURRENCIA:\nOBSERVADA MOTOCICLETA BAJAJ, ROJA CON BLANCO, PATENTE A4-6423.  SE REGISTRA INTERVENCIÓN VEHICULAR.  PRESENCIA DE UNIDAD OPERATIVA Y GRÚA.\n"
+  }
+]
