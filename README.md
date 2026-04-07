@@ -1,7 +1,7 @@
 # 🚓 SISTEMA DE MONITOREO SERENAZGO
 
 ### 🧠 Plataforma Inteligente de Control Operativo
-
+![https://github.com/jsantur/JSANTUR](./assets/Images/jsantur_banner_serenazgo.webp)
 <p align="center">
   <img src="./assets/demo.gif" alt="Demo del sistema" width="800"/>
 </p>
